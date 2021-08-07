@@ -104,7 +104,7 @@ def Final_Solution():
                         print("X", x)
                         print("Y", y)
                         print("SUCCESSSSSSSS")
-                    if j == (Number_of_Precincts - 1) and k == (Half_Precincts - 1) and x > Total_Votes/4 and y > Total_Votes/4 and SuperMatrix.readValue((j, k, x, y)) == 1:
+                    if j == (Number_of_Precincts) and k == (Half_Precincts) and x > Total_Votes/4 and y > Total_Votes/4 and SuperMatrix.readValue((j, k, x, y)) == 1:
                         print("final J", j)
                         print("final K", k)
                         print("final X", x)
