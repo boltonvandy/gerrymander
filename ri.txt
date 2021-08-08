@@ -1,0 +1,1264 @@
+City/Town	Precinct	Party	Reg. Voters	% of Reg. Voters
+Barrington	0101	Democrat	973	43%
+Barrington	0101	Republican	343	15%
+Barrington	0101	Unaffiliated	954	42%
+Barrington	0102	Democrat	1,380	47%
+Barrington	0102	Republican	384	13%
+Barrington	0102	Unaffiliated	1,182	40%
+Barrington	0103	Democrat	1,004	45%
+Barrington	0103	Republican	345	15%
+Barrington	0103	Unaffiliated	886	40%
+Barrington	0104	Democrat	1,246	44%
+Barrington	0104	Republican	413	15%
+Barrington	0104	Unaffiliated	1,157	41%
+Barrington	0105	Democrat	1,242	44%
+Barrington	0105	Republican	415	15%
+Barrington	0105	Unaffiliated	1,198	42%
+Bristol	0201	Democrat	515	34%
+Bristol	0201	Republican	252	16%
+Bristol	0201	Unaffiliated	770	50%
+Bristol	0202	Democrat	436	47%
+Bristol	0202	Republican	115	12%
+Bristol	0202	Unaffiliated	374	40%
+Bristol	0203	Democrat	1,135	41%
+Bristol	0203	Republican	404	15%
+Bristol	0203	Unaffiliated	1,208	44%
+Bristol	0204	Democrat	821	41%
+Bristol	0204	Republican	256	13%
+Bristol	0204	Unaffiliated	930	46%
+Bristol	0205	Democrat	822	35%
+Bristol	0205	Republican	328	14%
+Bristol	0205	Unaffiliated	1,222	52%
+Bristol	0206	Democrat	747	38%
+Bristol	0206	Republican	232	12%
+Bristol	0206	Unaffiliated	992	50%
+Bristol	0207	Democrat	480	43%
+Bristol	0207	Republican	137	12%
+Bristol	0207	Unaffiliated	488	44%
+Bristol	0208	Democrat	656	39%
+Bristol	0208	Republican	212	13%
+Bristol	0208	Unaffiliated	819	49%
+Bristol	0209	Democrat	184	44%
+Bristol	0209	Republican	42	10%
+Bristol	0209	Unaffiliated	189	46%
+Burrillville	0301	Democrat	599	29%
+Burrillville	0301	Republican	461	23%
+Burrillville	0301	Unaffiliated	977	48%
+Burrillville	0302	Democrat	511	26%
+Burrillville	0302	Republican	456	23%
+Burrillville	0302	Unaffiliated	977	50%
+Burrillville	0303	Democrat	703	28%
+Burrillville	0303	Republican	536	21%
+Burrillville	0303	Unaffiliated	1,266	51%
+Burrillville	0304	Democrat	405	28%
+Burrillville	0304	Republican	313	22%
+Burrillville	0304	Unaffiliated	735	51%
+Burrillville	0305	Democrat	448	26%
+Burrillville	0305	Republican	359	20%
+Burrillville	0305	Unaffiliated	948	54%
+Burrillville	0306	Democrat	461	26%
+Burrillville	0306	Republican	396	22%
+Burrillville	0306	Unaffiliated	950	53%
+Central Falls	0401	Democrat	828	58%
+Central Falls	0401	Republican	95	7%
+Central Falls	0401	Unaffiliated	499	35%
+Central Falls	0402	Democrat	421	57%
+Central Falls	0402	Republican	37	5%
+Central Falls	0402	Unaffiliated	285	38%
+Central Falls	0403	Democrat	819	60%
+Central Falls	0403	Republican	98	7%
+Central Falls	0403	Unaffiliated	452	33%
+Central Falls	0404	Democrat	730	62%
+Central Falls	0404	Republican	54	5%
+Central Falls	0404	Unaffiliated	387	33%
+Central Falls	0405	Democrat	345	65%
+Central Falls	0405	Republican	41	8%
+Central Falls	0405	Unaffiliated	145	27%
+Central Falls	0406	Democrat	464	61%
+Central Falls	0406	Republican	69	9%
+Central Falls	0406	Unaffiliated	225	30%
+Central Falls	0407	Democrat	198	57%
+Central Falls	0407	Republican	20	6%
+Central Falls	0407	Unaffiliated	131	38%
+Central Falls	0408	Democrat	636	61%
+Central Falls	0408	Republican	61	6%
+Central Falls	0408	Unaffiliated	351	33%
+Charlestown	0501	Democrat	607	34%
+Charlestown	0501	Republican	335	19%
+Charlestown	0501	Unaffiliated	865	48%
+Charlestown	0502	Democrat	578	33%
+Charlestown	0502	Republican	346	20%
+Charlestown	0502	Unaffiliated	846	48%
+Charlestown	0503	Democrat	526	33%
+Charlestown	0503	Republican	368	23%
+Charlestown	0503	Unaffiliated	696	44%
+Charlestown	0504	Democrat	442	33%
+Charlestown	0504	Republican	275	21%
+Charlestown	0504	Unaffiliated	612	46%
+Coventry	0601	Democrat	403	26%
+Coventry	0601	Republican	299	19%
+Coventry	0601	Unaffiliated	843	55%
+Coventry	0602	Democrat	140	27%
+Coventry	0602	Republican	103	20%
+Coventry	0602	Unaffiliated	278	53%
+Coventry	0603	Democrat	638	27%
+Coventry	0603	Republican	435	18%
+Coventry	0603	Unaffiliated	1,283	54%
+Coventry	0604	Democrat	442	28%
+Coventry	0604	Republican	256	16%
+Coventry	0604	Unaffiliated	859	55%
+Coventry	0605	Democrat	374	24%
+Coventry	0605	Republican	278	18%
+Coventry	0605	Unaffiliated	881	57%
+Coventry	0606	Democrat	214	24%
+Coventry	0606	Republican	180	20%
+Coventry	0606	Unaffiliated	513	57%
+Coventry	0607	Democrat	617	29%
+Coventry	0607	Republican	449	21%
+Coventry	0607	Unaffiliated	1,094	51%
+Coventry	0608	Democrat	613	29%
+Coventry	0608	Republican	412	19%
+Coventry	0608	Unaffiliated	1,093	52%
+Coventry	0609	Democrat	412	27%
+Coventry	0609	Republican	294	19%
+Coventry	0609	Unaffiliated	844	54%
+Coventry	0610	Democrat	333	31%
+Coventry	0610	Republican	172	16%
+Coventry	0610	Unaffiliated	563	53%
+Coventry	0611	Democrat	414	29%
+Coventry	0611	Republican	285	20%
+Coventry	0611	Unaffiliated	709	50%
+Coventry	0612	Democrat	480	30%
+Coventry	0612	Republican	256	16%
+Coventry	0612	Unaffiliated	891	55%
+Coventry	0613	Democrat	397	29%
+Coventry	0613	Republican	272	20%
+Coventry	0613	Unaffiliated	721	52%
+Coventry	0614	Democrat	241	36%
+Coventry	0614	Republican	132	20%
+Coventry	0614	Unaffiliated	298	44%
+Coventry	0615	Democrat	426	25%
+Coventry	0615	Republican	336	20%
+Coventry	0615	Unaffiliated	926	55%
+Coventry	0616	Democrat	492	26%
+Coventry	0616	Republican	353	19%
+Coventry	0616	Unaffiliated	1,025	55%
+Coventry	0617	Democrat	319	24%
+Coventry	0617	Republican	315	23%
+Coventry	0617	Unaffiliated	723	53%
+Coventry	0618	Democrat	169	24%
+Coventry	0618	Republican	172	24%
+Coventry	0618	Unaffiliated	367	52%
+Cranston	0701	Democrat	1,279	50%
+Cranston	0701	Republican	306	12%
+Cranston	0701	Unaffiliated	971	38%
+Cranston	0702	Democrat	1,057	49%
+Cranston	0702	Republican	241	11%
+Cranston	0702	Unaffiliated	870	40%
+Cranston	0703	Democrat	525	36%
+Cranston	0703	Republican	233	16%
+Cranston	0703	Unaffiliated	690	48%
+Cranston	0704	Democrat	230	43%
+Cranston	0704	Republican	65	12%
+Cranston	0704	Unaffiliated	242	45%
+Cranston	0705	Democrat	212	37%
+Cranston	0705	Republican	85	15%
+Cranston	0705	Unaffiliated	273	48%
+Cranston	0706	Democrat	601	25%
+Cranston	0706	Republican	540	22%
+Cranston	0706	Unaffiliated	1,298	53%
+Cranston	0707	Democrat	609	27%
+Cranston	0707	Republican	486	21%
+Cranston	0707	Unaffiliated	1,169	52%
+Cranston	0708	Democrat	759	30%
+Cranston	0708	Republican	456	18%
+Cranston	0708	Unaffiliated	1,341	52%
+Cranston	0709	Democrat	951	31%
+Cranston	0709	Republican	533	17%
+Cranston	0709	Unaffiliated	1,623	52%
+Cranston	0710	Democrat	849	42%
+Cranston	0710	Republican	304	15%
+Cranston	0710	Unaffiliated	891	44%
+Cranston	0711	Democrat	627	31%
+Cranston	0711	Republican	391	19%
+Cranston	0711	Unaffiliated	1,017	50%
+Cranston	0712	Democrat	694	31%
+Cranston	0712	Republican	400	18%
+Cranston	0712	Unaffiliated	1,142	51%
+Cranston	0713	Democrat	694	32%
+Cranston	0713	Republican	379	18%
+Cranston	0713	Unaffiliated	1,066	50%
+Cranston	0714	Democrat	240	41%
+Cranston	0714	Republican	75	13%
+Cranston	0714	Unaffiliated	271	46%
+Cranston	0715	Democrat	549	37%
+Cranston	0715	Republican	240	16%
+Cranston	0715	Unaffiliated	693	47%
+Cranston	0716	Democrat	715	34%
+Cranston	0716	Republican	337	16%
+Cranston	0716	Unaffiliated	1,024	49%
+Cranston	0717	Democrat	410	48%
+Cranston	0717	Republican	113	13%
+Cranston	0717	Unaffiliated	332	39%
+Cranston	0718	Democrat	379	37%
+Cranston	0718	Republican	185	18%
+Cranston	0718	Unaffiliated	466	45%
+Cranston	0719	Democrat	609	33%
+Cranston	0719	Republican	302	16%
+Cranston	0719	Unaffiliated	943	51%
+Cranston	0720	Democrat	182	32%
+Cranston	0720	Republican	114	20%
+Cranston	0720	Unaffiliated	276	48%
+Cranston	0721	Democrat	961	41%
+Cranston	0721	Republican	301	13%
+Cranston	0721	Unaffiliated	1,085	46%
+Cranston	0722	Democrat	559	41%
+Cranston	0722	Republican	197	15%
+Cranston	0722	Unaffiliated	591	44%
+Cranston	0723	Democrat	1,564	57%
+Cranston	0723	Republican	242	9%
+Cranston	0723	Unaffiliated	933	34%
+Cranston	0724	Democrat	1,089	58%
+Cranston	0724	Republican	175	9%
+Cranston	0724	Unaffiliated	620	33%
+Cranston	0725	Democrat	1,458	48%
+Cranston	0725	Republican	317	10%
+Cranston	0725	Unaffiliated	1,273	42%
+Cranston	0726	Democrat	821	45%
+Cranston	0726	Republican	232	13%
+Cranston	0726	Unaffiliated	770	42%
+Cranston	0727	Democrat	524	51%
+Cranston	0727	Republican	126	12%
+Cranston	0727	Unaffiliated	384	37%
+Cranston	0728	Democrat	26	54%
+Cranston	0728	Republican	7	15%
+Cranston	0728	Unaffiliated	15	31%
+Cranston	0730	Democrat	807	25%
+Cranston	0730	Republican	817	25%
+Cranston	0730	Unaffiliated	1,637	50%
+Cranston	0731	Democrat	765	31%
+Cranston	0731	Republican	412	17%
+Cranston	0731	Unaffiliated	1,265	52%
+Cumberland	0801	Democrat	616	40%
+Cumberland	0801	Republican	234	15%
+Cumberland	0801	Unaffiliated	700	45%
+Cumberland	0802	Democrat	778	41%
+Cumberland	0802	Republican	266	14%
+Cumberland	0802	Unaffiliated	865	45%
+Cumberland	0803	Democrat	935	39%
+Cumberland	0803	Republican	371	16%
+Cumberland	0803	Unaffiliated	1,081	45%
+Cumberland	0804	Democrat	243	34%
+Cumberland	0804	Republican	125	18%
+Cumberland	0804	Unaffiliated	346	48%
+Cumberland	0805	Democrat	1,038	42%
+Cumberland	0805	Republican	342	14%
+Cumberland	0805	Unaffiliated	1,115	45%
+Cumberland	0806	Democrat	889	41%
+Cumberland	0806	Republican	312	14%
+Cumberland	0806	Unaffiliated	989	45%
+Cumberland	0807	Democrat	1,068	35%
+Cumberland	0807	Republican	526	17%
+Cumberland	0807	Unaffiliated	1,469	48%
+Cumberland	0808	Democrat	1,041	37%
+Cumberland	0808	Republican	458	16%
+Cumberland	0808	Unaffiliated	1,323	47%
+Cumberland	0809	Democrat	313	34%
+Cumberland	0809	Republican	151	16%
+Cumberland	0809	Unaffiliated	467	50%
+Cumberland	0810	Democrat	1,001	49%
+Cumberland	0810	Republican	186	9%
+Cumberland	0810	Unaffiliated	836	41%
+Cumberland	0811	Democrat	1,022	46%
+Cumberland	0811	Republican	291	13%
+Cumberland	0811	Unaffiliated	913	41%
+Cumberland	0812	Democrat	793	40%
+Cumberland	0812	Republican	252	13%
+Cumberland	0812	Unaffiliated	915	47%
+Cumberland	0813	Democrat	316	33%
+Cumberland	0813	Republican	152	16%
+Cumberland	0813	Unaffiliated	486	51%
+East Greenwich	0901	Democrat	191	33%
+East Greenwich	0901	Republican	105	18%
+East Greenwich	0901	Unaffiliated	290	49%
+East Greenwich	0902	Democrat	814	32%
+East Greenwich	0902	Republican	532	21%
+East Greenwich	0902	Unaffiliated	1,191	47%
+East Greenwich	0903	Democrat	846	39%
+East Greenwich	0903	Republican	373	17%
+East Greenwich	0903	Unaffiliated	960	44%
+East Greenwich	0904	Democrat	849	33%
+East Greenwich	0904	Republican	476	19%
+East Greenwich	0904	Unaffiliated	1,210	48%
+East Greenwich	0905	Democrat	849	33%
+East Greenwich	0905	Republican	565	22%
+East Greenwich	0905	Unaffiliated	1,197	46%
+East Providence	1001	Democrat	1,134	47%
+East Providence	1001	Republican	277	11%
+East Providence	1001	Unaffiliated	1,027	42%
+East Providence	1002	Democrat	1,029	50%
+East Providence	1002	Republican	196	10%
+East Providence	1002	Unaffiliated	820	40%
+East Providence	1003	Democrat	710	56%
+East Providence	1003	Republican	115	9%
+East Providence	1003	Unaffiliated	445	35%
+East Providence	1004	Democrat	1,037	48%
+East Providence	1004	Republican	255	12%
+East Providence	1004	Unaffiliated	877	40%
+East Providence	1005	Democrat	845	48%
+East Providence	1005	Republican	208	12%
+East Providence	1005	Unaffiliated	703	40%
+East Providence	1006	Democrat	109	58%
+East Providence	1006	Republican	17	9%
+East Providence	1006	Unaffiliated	61	33%
+East Providence	1007	Democrat	147	50%
+East Providence	1007	Republican	24	8%
+East Providence	1007	Unaffiliated	121	41%
+East Providence	1008	Democrat	1,452	51%
+East Providence	1008	Republican	270	9%
+East Providence	1008	Unaffiliated	1,132	40%
+East Providence	1009	Democrat	1,483	51%
+East Providence	1009	Republican	279	10%
+East Providence	1009	Unaffiliated	1,139	39%
+East Providence	1010	Democrat	1,469	53%
+East Providence	1010	Republican	266	10%
+East Providence	1010	Unaffiliated	1,060	38%
+East Providence	1011	Democrat	1,132	46%
+East Providence	1011	Republican	323	13%
+East Providence	1011	Unaffiliated	1,002	41%
+East Providence	1012	Democrat	593	45%
+East Providence	1012	Republican	145	11%
+East Providence	1012	Unaffiliated	592	45%
+East Providence	1013	Democrat	980	46%
+East Providence	1013	Republican	238	11%
+East Providence	1013	Unaffiliated	924	43%
+East Providence	1014	Democrat	1,034	45%
+East Providence	1014	Republican	288	13%
+East Providence	1014	Unaffiliated	955	42%
+East Providence	1015	Democrat	438	50%
+East Providence	1015	Republican	101	12%
+East Providence	1015	Unaffiliated	336	38%
+East Providence	1016	Democrat	496	39%
+East Providence	1016	Republican	146	11%
+East Providence	1016	Unaffiliated	629	49%
+East Providence	1017	Democrat	951	42%
+East Providence	1017	Republican	295	13%
+East Providence	1017	Unaffiliated	1,036	45%
+East Providence	1018	Democrat	404	46%
+East Providence	1018	Republican	97	11%
+East Providence	1018	Unaffiliated	372	43%
+Exeter	1101	Democrat	454	30%
+Exeter	1101	Republican	286	19%
+Exeter	1101	Unaffiliated	775	51%
+Exeter	1102	Democrat	392	26%
+Exeter	1102	Republican	329	22%
+Exeter	1102	Unaffiliated	801	53%
+Exeter	1103	Democrat	538	26%
+Exeter	1103	Republican	428	21%
+Exeter	1103	Unaffiliated	1,094	53%
+Foster	1201	Democrat	479	24%
+Foster	1201	Republican	447	23%
+Foster	1201	Unaffiliated	1,033	53%
+Foster	1202	Democrat	373	22%
+Foster	1202	Republican	400	24%
+Foster	1202	Unaffiliated	902	54%
+Glocester	1301	Democrat	676	24%
+Glocester	1301	Republican	604	21%
+Glocester	1301	Unaffiliated	1,532	54%
+Glocester	1302	Democrat	682	24%
+Glocester	1302	Republican	588	20%
+Glocester	1302	Unaffiliated	1,601	56%
+Glocester	1303	Democrat	160	25%
+Glocester	1303	Republican	143	22%
+Glocester	1303	Unaffiliated	340	53%
+Glocester	1304	Democrat	499	28%
+Glocester	1304	Republican	332	19%
+Glocester	1304	Unaffiliated	920	53%
+Hopkinton	1401	Democrat	725	26%
+Hopkinton	1401	Republican	621	23%
+Hopkinton	1401	Unaffiliated	1,409	51%
+Hopkinton	1402	Democrat	744	30%
+Hopkinton	1402	Republican	524	21%
+Hopkinton	1402	Unaffiliated	1,220	49%
+Hopkinton	1403	Democrat	273	28%
+Hopkinton	1403	Republican	224	23%
+Hopkinton	1403	Unaffiliated	486	49%
+Jamestown	1501	Democrat	1,085	47%
+Jamestown	1501	Republican	371	16%
+Jamestown	1501	Unaffiliated	843	37%
+Jamestown	1502	Democrat	1,101	46%
+Jamestown	1502	Republican	310	13%
+Jamestown	1502	Unaffiliated	997	41%
+Johnston	1601	Democrat	761	46%
+Johnston	1601	Republican	230	14%
+Johnston	1601	Unaffiliated	662	40%
+Johnston	1602	Democrat	885	47%
+Johnston	1602	Republican	281	15%
+Johnston	1602	Unaffiliated	714	38%
+Johnston	1603	Democrat	988	46%
+Johnston	1603	Republican	287	13%
+Johnston	1603	Unaffiliated	870	41%
+Johnston	1604	Democrat	907	43%
+Johnston	1604	Republican	344	16%
+Johnston	1604	Unaffiliated	857	41%
+Johnston	1605	Democrat	759	41%
+Johnston	1605	Republican	306	17%
+Johnston	1605	Unaffiliated	764	42%
+Johnston	1606	Democrat	224	50%
+Johnston	1606	Republican	63	14%
+Johnston	1606	Unaffiliated	158	36%
+Johnston	1607	Democrat	257	45%
+Johnston	1607	Republican	86	15%
+Johnston	1607	Unaffiliated	229	40%
+Johnston	1608	Democrat	1,073	44%
+Johnston	1608	Republican	347	14%
+Johnston	1608	Unaffiliated	1,017	42%
+Johnston	1609	Democrat	825	49%
+Johnston	1609	Republican	235	14%
+Johnston	1609	Unaffiliated	614	37%
+Johnston	1610	Democrat	1,126	44%
+Johnston	1610	Republican	360	14%
+Johnston	1610	Unaffiliated	1,053	41%
+Johnston	1611	Democrat	670	50%
+Johnston	1611	Republican	171	13%
+Johnston	1611	Unaffiliated	503	37%
+Johnston	1612	Democrat	658	44%
+Johnston	1612	Republican	228	15%
+Johnston	1612	Unaffiliated	605	41%
+Johnston	1613	Democrat	627	40%
+Johnston	1613	Republican	278	18%
+Johnston	1613	Unaffiliated	674	43%
+Lincoln	1701	Democrat	873	30%
+Lincoln	1701	Republican	578	20%
+Lincoln	1701	Unaffiliated	1,433	50%
+Lincoln	1702	Democrat	449	36%
+Lincoln	1702	Republican	194	16%
+Lincoln	1702	Unaffiliated	597	48%
+Lincoln	1703	Democrat	673	34%
+Lincoln	1703	Republican	280	14%
+Lincoln	1703	Unaffiliated	1,000	51%
+Lincoln	1704	Democrat	886	35%
+Lincoln	1704	Republican	410	16%
+Lincoln	1704	Unaffiliated	1,227	49%
+Lincoln	1705	Democrat	578	33%
+Lincoln	1705	Republican	265	15%
+Lincoln	1705	Unaffiliated	928	52%
+Lincoln	1706	Democrat	159	32%
+Lincoln	1706	Republican	100	20%
+Lincoln	1706	Unaffiliated	234	47%
+Lincoln	1707	Democrat	187	31%
+Lincoln	1707	Republican	126	21%
+Lincoln	1707	Unaffiliated	287	48%
+Lincoln	1708	Democrat	734	34%
+Lincoln	1708	Republican	353	16%
+Lincoln	1708	Unaffiliated	1,065	49%
+Lincoln	1709	Democrat	269	32%
+Lincoln	1709	Republican	152	18%
+Lincoln	1709	Unaffiliated	422	50%
+Lincoln	1710	Democrat	296	36%
+Lincoln	1710	Republican	122	15%
+Lincoln	1710	Unaffiliated	415	50%
+Lincoln	1711	Democrat	359	38%
+Lincoln	1711	Republican	138	14%
+Lincoln	1711	Unaffiliated	459	48%
+Little Compton	1801	Democrat	1,105	36%
+Little Compton	1801	Republican	581	19%
+Little Compton	1801	Unaffiliated	1,420	46%
+Middletown	1901	Democrat	716	41%
+Middletown	1901	Republican	289	16%
+Middletown	1901	Unaffiliated	759	43%
+Middletown	1902	Democrat	804	40%
+Middletown	1902	Republican	301	15%
+Middletown	1902	Unaffiliated	894	45%
+Middletown	1903	Democrat	771	41%
+Middletown	1903	Republican	270	14%
+Middletown	1903	Unaffiliated	826	44%
+Middletown	1904	Democrat	1,194	41%
+Middletown	1904	Republican	407	14%
+Middletown	1904	Unaffiliated	1,329	45%
+Middletown	1905	Democrat	798	38%
+Middletown	1905	Republican	376	18%
+Middletown	1905	Unaffiliated	942	45%
+Narragansett	2001	Democrat	120	42%
+Narragansett	2001	Republican	43	15%
+Narragansett	2001	Unaffiliated	123	43%
+Narragansett	2002	Democrat	1,068	39%
+Narragansett	2002	Republican	395	14%
+Narragansett	2002	Unaffiliated	1,282	47%
+Narragansett	2003	Democrat	1,044	38%
+Narragansett	2003	Republican	421	15%
+Narragansett	2003	Unaffiliated	1,266	46%
+Narragansett	2004	Democrat	1,084	38%
+Narragansett	2004	Republican	474	17%
+Narragansett	2004	Unaffiliated	1,272	45%
+Narragansett	2005	Democrat	932	35%
+Narragansett	2005	Republican	433	16%
+Narragansett	2005	Unaffiliated	1,271	48%
+New Shoreham	2201	Democrat	577	51%
+New Shoreham	2201	Republican	153	13%
+New Shoreham	2201	Unaffiliated	406	36%
+Newport	2101	Democrat	639	44%
+Newport	2101	Republican	187	13%
+Newport	2101	Unaffiliated	622	43%
+Newport	2102	Democrat	1,336	51%
+Newport	2102	Republican	285	11%
+Newport	2102	Unaffiliated	1,019	39%
+Newport	2103	Democrat	441	50%
+Newport	2103	Republican	105	12%
+Newport	2103	Unaffiliated	329	38%
+Newport	2104	Democrat	343	53%
+Newport	2104	Republican	75	12%
+Newport	2104	Unaffiliated	225	35%
+Newport	2105	Democrat	941	50%
+Newport	2105	Republican	261	14%
+Newport	2105	Unaffiliated	696	37%
+Newport	2106	Democrat	1,013	46%
+Newport	2106	Republican	368	17%
+Newport	2106	Unaffiliated	839	38%
+Newport	2107	Democrat	940	45%
+Newport	2107	Republican	323	16%
+Newport	2107	Unaffiliated	820	39%
+Newport	2108	Democrat	564	54%
+Newport	2108	Republican	115	11%
+Newport	2108	Unaffiliated	373	35%
+Newport	2109	Democrat	442	59%
+Newport	2109	Republican	39	5%
+Newport	2109	Unaffiliated	268	36%
+North Kingstown	2301	Democrat	574	30%
+North Kingstown	2301	Republican	355	19%
+North Kingstown	2301	Unaffiliated	954	51%
+North Kingstown	2302	Democrat	1,119	36%
+North Kingstown	2302	Republican	495	16%
+North Kingstown	2302	Unaffiliated	1,498	48%
+North Kingstown	2303	Democrat	873	33%
+North Kingstown	2303	Republican	503	19%
+North Kingstown	2303	Unaffiliated	1,301	49%
+North Kingstown	2304	Democrat	841	33%
+North Kingstown	2304	Republican	448	17%
+North Kingstown	2304	Unaffiliated	1,276	50%
+North Kingstown	2305	Democrat	469	30%
+North Kingstown	2305	Republican	305	20%
+North Kingstown	2305	Unaffiliated	764	50%
+North Kingstown	2306	Democrat	495	32%
+North Kingstown	2306	Republican	259	17%
+North Kingstown	2306	Unaffiliated	811	52%
+North Kingstown	2307	Democrat	1,076	39%
+North Kingstown	2307	Republican	431	16%
+North Kingstown	2307	Unaffiliated	1,260	46%
+North Kingstown	2308	Democrat	989	35%
+North Kingstown	2308	Republican	444	16%
+North Kingstown	2308	Unaffiliated	1,379	49%
+North Kingstown	2309	Democrat	1,081	37%
+North Kingstown	2309	Republican	470	16%
+North Kingstown	2309	Unaffiliated	1,391	47%
+North Providence	2401	Democrat	617	53%
+North Providence	2401	Republican	129	11%
+North Providence	2401	Unaffiliated	426	36%
+North Providence	2402	Democrat	855	51%
+North Providence	2402	Republican	164	10%
+North Providence	2402	Unaffiliated	646	39%
+North Providence	2403	Democrat	859	53%
+North Providence	2403	Republican	188	11%
+North Providence	2403	Unaffiliated	588	36%
+North Providence	2404	Democrat	515	55%
+North Providence	2404	Republican	85	9%
+North Providence	2404	Unaffiliated	329	35%
+North Providence	2405	Democrat	631	52%
+North Providence	2405	Republican	122	10%
+North Providence	2405	Unaffiliated	451	37%
+North Providence	2406	Democrat	952	52%
+North Providence	2406	Republican	205	11%
+North Providence	2406	Unaffiliated	688	37%
+North Providence	2407	Democrat	933	53%
+North Providence	2407	Republican	192	11%
+North Providence	2407	Unaffiliated	629	36%
+North Providence	2408	Democrat	837	49%
+North Providence	2408	Republican	175	10%
+North Providence	2408	Unaffiliated	705	41%
+North Providence	2409	Democrat	497	54%
+North Providence	2409	Republican	91	10%
+North Providence	2409	Unaffiliated	333	36%
+North Providence	2410	Democrat	658	52%
+North Providence	2410	Republican	142	11%
+North Providence	2410	Unaffiliated	468	37%
+North Providence	2411	Democrat	900	54%
+North Providence	2411	Republican	176	11%
+North Providence	2411	Unaffiliated	593	36%
+North Providence	2412	Democrat	980	53%
+North Providence	2412	Republican	178	10%
+North Providence	2412	Unaffiliated	691	37%
+North Providence	2413	Democrat	565	55%
+North Providence	2413	Republican	107	10%
+North Providence	2413	Unaffiliated	358	35%
+North Providence	2414	Democrat	477	52%
+North Providence	2414	Republican	87	9%
+North Providence	2414	Unaffiliated	354	39%
+North Providence	2415	Democrat	705	57%
+North Providence	2415	Republican	100	8%
+North Providence	2415	Unaffiliated	423	34%
+North Providence	2416	Democrat	1,315	54%
+North Providence	2416	Republican	226	9%
+North Providence	2416	Unaffiliated	873	36%
+North Smithfield	2501	Democrat	591	27%
+North Smithfield	2501	Republican	434	20%
+North Smithfield	2501	Unaffiliated	1,136	53%
+North Smithfield	2502	Democrat	590	26%
+North Smithfield	2502	Republican	465	21%
+North Smithfield	2502	Unaffiliated	1,196	53%
+North Smithfield	2503	Democrat	562	30%
+North Smithfield	2503	Republican	352	19%
+North Smithfield	2503	Unaffiliated	967	51%
+North Smithfield	2504	Democrat	583	33%
+North Smithfield	2504	Republican	348	20%
+North Smithfield	2504	Unaffiliated	853	48%
+North Smithfield	2505	Democrat	355	33%
+North Smithfield	2505	Republican	215	20%
+North Smithfield	2505	Unaffiliated	499	47%
+Pawtucket	2601	Democrat	350	59%
+Pawtucket	2601	Republican	32	5%
+Pawtucket	2601	Unaffiliated	207	35%
+Pawtucket	2602	Democrat	831	61%
+Pawtucket	2602	Republican	58	4%
+Pawtucket	2602	Unaffiliated	480	35%
+Pawtucket	2603	Democrat	1,472	57%
+Pawtucket	2603	Republican	198	8%
+Pawtucket	2603	Unaffiliated	917	35%
+Pawtucket	2604	Democrat	721	58%
+Pawtucket	2604	Republican	114	9%
+Pawtucket	2604	Unaffiliated	398	32%
+Pawtucket	2605	Democrat	616	60%
+Pawtucket	2605	Republican	57	6%
+Pawtucket	2605	Unaffiliated	360	35%
+Pawtucket	2606	Democrat	793	61%
+Pawtucket	2606	Republican	66	5%
+Pawtucket	2606	Unaffiliated	435	34%
+Pawtucket	2607	Democrat	1,638	64%
+Pawtucket	2607	Republican	112	4%
+Pawtucket	2607	Unaffiliated	819	32%
+Pawtucket	2608	Democrat	1,378	62%
+Pawtucket	2608	Republican	154	7%
+Pawtucket	2608	Unaffiliated	696	31%
+Pawtucket	2609	Democrat	210	58%
+Pawtucket	2609	Republican	29	8%
+Pawtucket	2609	Unaffiliated	121	34%
+Pawtucket	2610	Democrat	166	57%
+Pawtucket	2610	Republican	16	5%
+Pawtucket	2610	Unaffiliated	110	38%
+Pawtucket	2611	Democrat	707	60%
+Pawtucket	2611	Republican	85	7%
+Pawtucket	2611	Unaffiliated	391	33%
+Pawtucket	2612	Democrat	862	51%
+Pawtucket	2612	Republican	172	10%
+Pawtucket	2612	Unaffiliated	672	39%
+Pawtucket	2613	Democrat	1,238	56%
+Pawtucket	2613	Republican	164	7%
+Pawtucket	2613	Unaffiliated	814	37%
+Pawtucket	2614	Democrat	1,091	59%
+Pawtucket	2614	Republican	116	6%
+Pawtucket	2614	Unaffiliated	655	35%
+Pawtucket	2615	Democrat	443	59%
+Pawtucket	2615	Republican	44	6%
+Pawtucket	2615	Unaffiliated	261	35%
+Pawtucket	2616	Democrat	201	56%
+Pawtucket	2616	Republican	38	10%
+Pawtucket	2616	Unaffiliated	123	34%
+Pawtucket	2617	Democrat	263	55%
+Pawtucket	2617	Republican	30	6%
+Pawtucket	2617	Unaffiliated	182	38%
+Pawtucket	2618	Democrat	1,373	51%
+Pawtucket	2618	Republican	274	10%
+Pawtucket	2618	Unaffiliated	1,056	39%
+Pawtucket	2619	Democrat	709	51%
+Pawtucket	2619	Republican	132	10%
+Pawtucket	2619	Unaffiliated	539	39%
+Pawtucket	2620	Democrat	1,454	52%
+Pawtucket	2620	Republican	257	9%
+Pawtucket	2620	Unaffiliated	1,071	38%
+Pawtucket	2621	Democrat	359	49%
+Pawtucket	2621	Republican	79	11%
+Pawtucket	2621	Unaffiliated	297	40%
+Pawtucket	2622	Democrat	217	49%
+Pawtucket	2622	Republican	46	10%
+Pawtucket	2622	Unaffiliated	182	41%
+Pawtucket	2623	Democrat	337	50%
+Pawtucket	2623	Republican	54	8%
+Pawtucket	2623	Unaffiliated	289	43%
+Pawtucket	2624	Democrat	313	50%
+Pawtucket	2624	Republican	70	11%
+Pawtucket	2624	Unaffiliated	245	39%
+Pawtucket	2625	Democrat	389	56%
+Pawtucket	2625	Republican	59	8%
+Pawtucket	2625	Unaffiliated	252	36%
+Pawtucket	2626	Democrat	211	62%
+Pawtucket	2626	Republican	20	6%
+Pawtucket	2626	Unaffiliated	109	32%
+Pawtucket	2627	Democrat	866	55%
+Pawtucket	2627	Republican	136	9%
+Pawtucket	2627	Unaffiliated	569	36%
+Pawtucket	2628	Democrat	1,076	51%
+Pawtucket	2628	Republican	235	11%
+Pawtucket	2628	Unaffiliated	817	38%
+Pawtucket	2629	Democrat	1,533	51%
+Pawtucket	2629	Republican	282	9%
+Pawtucket	2629	Unaffiliated	1,185	40%
+Pawtucket	2630	Democrat	107	51%
+Pawtucket	2630	Republican	24	11%
+Pawtucket	2630	Unaffiliated	78	37%
+Pawtucket	2631	Democrat	678	63%
+Pawtucket	2631	Republican	56	5%
+Pawtucket	2631	Unaffiliated	350	32%
+Portsmouth	2701	Democrat	55	34%
+Portsmouth	2701	Republican	29	18%
+Portsmouth	2701	Unaffiliated	78	48%
+Portsmouth	2702	Democrat	131	34%
+Portsmouth	2702	Republican	88	23%
+Portsmouth	2702	Unaffiliated	169	44%
+Portsmouth	2703	Democrat	804	38%
+Portsmouth	2703	Republican	334	16%
+Portsmouth	2703	Unaffiliated	996	47%
+Portsmouth	2704	Democrat	1,064	35%
+Portsmouth	2704	Republican	563	19%
+Portsmouth	2704	Unaffiliated	1,371	46%
+Portsmouth	2705	Democrat	362	34%
+Portsmouth	2705	Republican	247	23%
+Portsmouth	2705	Unaffiliated	452	43%
+Portsmouth	2706	Democrat	362	38%
+Portsmouth	2706	Republican	202	21%
+Portsmouth	2706	Unaffiliated	389	41%
+Portsmouth	2707	Democrat	1,011	35%
+Portsmouth	2707	Republican	570	20%
+Portsmouth	2707	Unaffiliated	1,326	46%
+Portsmouth	2708	Democrat	1,079	36%
+Portsmouth	2708	Republican	574	19%
+Portsmouth	2708	Unaffiliated	1,346	45%
+Providence	2801	Democrat	141	68%
+Providence	2801	Republican	19	9%
+Providence	2801	Unaffiliated	46	22%
+Providence	2802	Democrat	286	61%
+Providence	2802	Republican	28	6%
+Providence	2802	Unaffiliated	154	33%
+Providence	2803	Democrat	1,363	65%
+Providence	2803	Republican	96	5%
+Providence	2803	Unaffiliated	648	31%
+Providence	2804	Democrat	1,376	62%
+Providence	2804	Republican	75	3%
+Providence	2804	Unaffiliated	751	34%
+Providence	2805	Democrat	1,539	66%
+Providence	2805	Republican	118	5%
+Providence	2805	Unaffiliated	686	29%
+Providence	2806	Democrat	111	59%
+Providence	2806	Republican	13	7%
+Providence	2806	Unaffiliated	63	34%
+Providence	2807	Democrat	(Blank)	(Blank)
+Providence	2807	Republican	(Blank)	(Blank)
+Providence	2807	Unaffiliated	2	100%
+Providence	2808	Democrat	1,164	66%
+Providence	2808	Republican	92	5%
+Providence	2808	Unaffiliated	520	29%
+Providence	2809	Democrat	1,509	71%
+Providence	2809	Republican	81	4%
+Providence	2809	Unaffiliated	546	26%
+Providence	2810	Democrat	80	68%
+Providence	2810	Republican	6	5%
+Providence	2810	Unaffiliated	32	27%
+Providence	2811	Democrat	1,174	61%
+Providence	2811	Republican	82	4%
+Providence	2811	Unaffiliated	653	34%
+Providence	2812	Democrat	1,212	60%
+Providence	2812	Republican	111	6%
+Providence	2812	Unaffiliated	691	34%
+Providence	2813	Democrat	903	60%
+Providence	2813	Republican	73	5%
+Providence	2813	Unaffiliated	524	35%
+Providence	2814	Democrat	598	60%
+Providence	2814	Republican	65	7%
+Providence	2814	Unaffiliated	330	33%
+Providence	2815	Democrat	843	56%
+Providence	2815	Republican	115	8%
+Providence	2815	Unaffiliated	553	37%
+Providence	2816	Democrat	1,769	68%
+Providence	2816	Republican	133	5%
+Providence	2816	Unaffiliated	714	27%
+Providence	2817	Democrat	1,858	68%
+Providence	2817	Republican	127	5%
+Providence	2817	Unaffiliated	740	27%
+Providence	2818	Democrat	1,405	67%
+Providence	2818	Republican	100	5%
+Providence	2818	Unaffiliated	604	29%
+Providence	2819	Democrat	1,450	62%
+Providence	2819	Republican	179	8%
+Providence	2819	Unaffiliated	726	31%
+Providence	2820	Democrat	198	66%
+Providence	2820	Republican	17	6%
+Providence	2820	Unaffiliated	87	29%
+Providence	2821	Democrat	1,076	61%
+Providence	2821	Republican	102	6%
+Providence	2821	Unaffiliated	591	33%
+Providence	2822	Democrat	369	62%
+Providence	2822	Republican	21	4%
+Providence	2822	Unaffiliated	202	34%
+Providence	2823	Democrat	1,672	63%
+Providence	2823	Republican	138	5%
+Providence	2823	Unaffiliated	830	31%
+Providence	2824	Democrat	1,749	64%
+Providence	2824	Republican	134	5%
+Providence	2824	Unaffiliated	848	31%
+Providence	2825	Democrat	284	58%
+Providence	2825	Republican	34	7%
+Providence	2825	Unaffiliated	173	35%
+Providence	2826	Democrat	1,455	65%
+Providence	2826	Republican	95	4%
+Providence	2826	Unaffiliated	676	30%
+Providence	2827	Democrat	1,627	69%
+Providence	2827	Republican	104	4%
+Providence	2827	Unaffiliated	640	27%
+Providence	2828	Democrat	1,039	62%
+Providence	2828	Republican	76	5%
+Providence	2828	Unaffiliated	551	33%
+Providence	2829	Democrat	1,210	73%
+Providence	2829	Republican	61	4%
+Providence	2829	Unaffiliated	388	23%
+Providence	2830	Democrat	93	69%
+Providence	2830	Republican	9	7%
+Providence	2830	Unaffiliated	33	24%
+Providence	2831	Democrat	1,152	69%
+Providence	2831	Republican	58	3%
+Providence	2831	Unaffiliated	460	28%
+Providence	2832	Democrat	1,573	67%
+Providence	2832	Republican	104	4%
+Providence	2832	Unaffiliated	675	29%
+Providence	2833	Democrat	725	65%
+Providence	2833	Republican	44	4%
+Providence	2833	Unaffiliated	350	31%
+Providence	2834	Democrat	353	68%
+Providence	2834	Republican	24	5%
+Providence	2834	Unaffiliated	142	27%
+Providence	2835	Democrat	226	56%
+Providence	2835	Republican	36	9%
+Providence	2835	Unaffiliated	140	35%
+Providence	2836	Democrat	18	41%
+Providence	2836	Republican	8	18%
+Providence	2836	Unaffiliated	18	41%
+Providence	2837	Democrat	508	59%
+Providence	2837	Republican	74	9%
+Providence	2837	Unaffiliated	278	32%
+Providence	2838	Democrat	321	66%
+Providence	2838	Republican	35	7%
+Providence	2838	Unaffiliated	134	27%
+Providence	2839	Democrat	573	63%
+Providence	2839	Republican	67	7%
+Providence	2839	Unaffiliated	267	29%
+Providence	2840	Democrat	450	70%
+Providence	2840	Republican	31	5%
+Providence	2840	Unaffiliated	161	25%
+Providence	2841	Democrat	451	58%
+Providence	2841	Republican	35	5%
+Providence	2841	Unaffiliated	287	37%
+Providence	2842	Democrat	185	56%
+Providence	2842	Republican	28	8%
+Providence	2842	Unaffiliated	118	36%
+Providence	2843	Democrat	231	59%
+Providence	2843	Republican	28	7%
+Providence	2843	Unaffiliated	133	34%
+Providence	2844	Democrat	1,070	48%
+Providence	2844	Republican	336	15%
+Providence	2844	Unaffiliated	830	37%
+Providence	2845	Democrat	499	60%
+Providence	2845	Republican	70	8%
+Providence	2845	Unaffiliated	260	31%
+Providence	2846	Democrat	632	59%
+Providence	2846	Republican	82	8%
+Providence	2846	Unaffiliated	362	34%
+Providence	2847	Democrat	489	56%
+Providence	2847	Republican	45	5%
+Providence	2847	Unaffiliated	336	39%
+Providence	2848	Democrat	193	58%
+Providence	2848	Republican	28	8%
+Providence	2848	Unaffiliated	110	33%
+Providence	2849	Democrat	1,093	62%
+Providence	2849	Republican	109	6%
+Providence	2849	Unaffiliated	560	32%
+Providence	2850	Democrat	640	62%
+Providence	2850	Republican	66	6%
+Providence	2850	Unaffiliated	333	32%
+Providence	2851	Democrat	770	59%
+Providence	2851	Republican	88	7%
+Providence	2851	Unaffiliated	445	34%
+Providence	2852	Democrat	301	59%
+Providence	2852	Republican	30	6%
+Providence	2852	Unaffiliated	182	35%
+Providence	2853	Democrat	230	55%
+Providence	2853	Republican	39	9%
+Providence	2853	Unaffiliated	146	35%
+Providence	2854	Democrat	1,843	66%
+Providence	2854	Republican	150	5%
+Providence	2854	Unaffiliated	811	29%
+Providence	2855	Democrat	1,733	61%
+Providence	2855	Republican	177	6%
+Providence	2855	Unaffiliated	935	33%
+Providence	2856	Democrat	82	62%
+Providence	2856	Republican	8	6%
+Providence	2856	Unaffiliated	43	32%
+Providence	2857	Democrat	154	63%
+Providence	2857	Republican	10	4%
+Providence	2857	Unaffiliated	80	33%
+Providence	2858	Democrat	407	57%
+Providence	2858	Republican	41	6%
+Providence	2858	Unaffiliated	267	37%
+Providence	2859	Democrat	253	62%
+Providence	2859	Republican	31	8%
+Providence	2859	Unaffiliated	121	30%
+Providence	2860	Democrat	180	58%
+Providence	2860	Republican	22	7%
+Providence	2860	Unaffiliated	109	35%
+Providence	2861	Democrat	1,398	65%
+Providence	2861	Republican	89	4%
+Providence	2861	Unaffiliated	668	31%
+Providence	2862	Democrat	1,389	67%
+Providence	2862	Republican	115	6%
+Providence	2862	Unaffiliated	572	28%
+Providence	2863	Democrat	838	62%
+Providence	2863	Republican	75	6%
+Providence	2863	Unaffiliated	433	32%
+Providence	2864	Democrat	396	66%
+Providence	2864	Republican	37	6%
+Providence	2864	Unaffiliated	168	28%
+Providence	2865	Democrat	303	64%
+Providence	2865	Republican	13	3%
+Providence	2865	Unaffiliated	158	33%
+Providence	2866	Democrat	916	72%
+Providence	2866	Republican	45	4%
+Providence	2866	Unaffiliated	305	24%
+Providence	2867	Democrat	146	57%
+Providence	2867	Republican	16	6%
+Providence	2867	Unaffiliated	96	37%
+Providence	2868	Democrat	1,065	68%
+Providence	2868	Republican	59	4%
+Providence	2868	Unaffiliated	448	28%
+Providence	2869	Democrat	161	54%
+Providence	2869	Republican	18	6%
+Providence	2869	Unaffiliated	121	40%
+Providence	2870	Democrat	1,000	66%
+Providence	2870	Republican	80	5%
+Providence	2870	Unaffiliated	424	28%
+Providence	2871	Democrat	561	65%
+Providence	2871	Republican	45	5%
+Providence	2871	Unaffiliated	255	30%
+Providence	2872	Democrat	62	67%
+Providence	2872	Republican	6	6%
+Providence	2872	Unaffiliated	25	27%
+Providence	2873	Democrat	170	59%
+Providence	2873	Republican	18	6%
+Providence	2873	Unaffiliated	101	35%
+Providence	2874	Democrat	1,225	62%
+Providence	2874	Republican	127	6%
+Providence	2874	Unaffiliated	620	31%
+Providence	2875	Democrat	1,366	62%
+Providence	2875	Republican	141	6%
+Providence	2875	Unaffiliated	694	32%
+Providence	2876	Democrat	862	67%
+Providence	2876	Republican	72	6%
+Providence	2876	Unaffiliated	361	28%
+Providence	2877	Democrat	403	57%
+Providence	2877	Republican	50	7%
+Providence	2877	Unaffiliated	248	35%
+Providence	2878	Democrat	79	67%
+Providence	2878	Republican	8	7%
+Providence	2878	Unaffiliated	31	26%
+Providence	2879	Democrat	1,001	66%
+Providence	2879	Republican	65	4%
+Providence	2879	Unaffiliated	453	30%
+Providence	2880	Democrat	781	69%
+Providence	2880	Republican	33	3%
+Providence	2880	Unaffiliated	325	29%
+Richmond	2901	Democrat	905	29%
+Richmond	2901	Republican	627	20%
+Richmond	2901	Unaffiliated	1,556	50%
+Richmond	2902	Democrat	874	28%
+Richmond	2902	Republican	686	22%
+Richmond	2902	Unaffiliated	1,558	50%
+Scituate	3001	Democrat	622	22%
+Scituate	3001	Republican	701	25%
+Scituate	3001	Unaffiliated	1,447	52%
+Scituate	3002	Democrat	639	22%
+Scituate	3002	Republican	719	25%
+Scituate	3002	Unaffiliated	1,523	53%
+Scituate	3003	Democrat	595	22%
+Scituate	3003	Republican	650	23%
+Scituate	3003	Unaffiliated	1,521	55%
+Smithfield	3101	Democrat	803	31%
+Smithfield	3101	Republican	452	18%
+Smithfield	3101	Unaffiliated	1,300	51%
+Smithfield	3102	Democrat	787	34%
+Smithfield	3102	Republican	367	16%
+Smithfield	3102	Unaffiliated	1,194	51%
+Smithfield	3103	Democrat	777	34%
+Smithfield	3103	Republican	343	15%
+Smithfield	3103	Unaffiliated	1,191	52%
+Smithfield	3104	Democrat	818	31%
+Smithfield	3104	Republican	430	16%
+Smithfield	3104	Unaffiliated	1,400	53%
+Smithfield	3105	Democrat	812	33%
+Smithfield	3105	Republican	356	14%
+Smithfield	3105	Unaffiliated	1,300	53%
+Smithfield	3106	Democrat	749	33%
+Smithfield	3106	Republican	383	17%
+Smithfield	3106	Unaffiliated	1,117	50%
+South Kingstown	3201	Democrat	306	35%
+South Kingstown	3201	Republican	135	16%
+South Kingstown	3201	Unaffiliated	426	49%
+South Kingstown	3202	Democrat	965	45%
+South Kingstown	3202	Republican	292	14%
+South Kingstown	3202	Unaffiliated	903	42%
+South Kingstown	3203	Democrat	962	43%
+South Kingstown	3203	Republican	324	14%
+South Kingstown	3203	Unaffiliated	970	43%
+South Kingstown	3204	Democrat	1,104	49%
+South Kingstown	3204	Republican	224	10%
+South Kingstown	3204	Unaffiliated	907	41%
+South Kingstown	3205	Democrat	1,150	48%
+South Kingstown	3205	Republican	220	9%
+South Kingstown	3205	Unaffiliated	1,047	43%
+South Kingstown	3206	Democrat	716	38%
+South Kingstown	3206	Republican	273	15%
+South Kingstown	3206	Unaffiliated	890	47%
+South Kingstown	3207	Democrat	1,193	44%
+South Kingstown	3207	Republican	297	11%
+South Kingstown	3207	Unaffiliated	1,200	45%
+South Kingstown	3208	Democrat	1,163	40%
+South Kingstown	3208	Republican	430	15%
+South Kingstown	3208	Unaffiliated	1,335	46%
+South Kingstown	3209	Democrat	486	40%
+South Kingstown	3209	Republican	172	14%
+South Kingstown	3209	Unaffiliated	543	45%
+South Kingstown	3210	Democrat	754	42%
+South Kingstown	3210	Republican	275	15%
+South Kingstown	3210	Unaffiliated	782	43%
+Tiverton	3301	Democrat	821	35%
+Tiverton	3301	Republican	407	18%
+Tiverton	3301	Unaffiliated	1,096	47%
+Tiverton	3302	Democrat	909	36%
+Tiverton	3302	Republican	461	18%
+Tiverton	3302	Unaffiliated	1,123	45%
+Tiverton	3303	Democrat	523	38%
+Tiverton	3303	Republican	251	18%
+Tiverton	3303	Unaffiliated	591	43%
+Tiverton	3304	Democrat	588	35%
+Tiverton	3304	Republican	314	19%
+Tiverton	3304	Unaffiliated	770	46%
+Tiverton	3305	Democrat	156	36%
+Tiverton	3305	Republican	69	16%
+Tiverton	3305	Unaffiliated	210	48%
+Tiverton	3306	Democrat	770	31%
+Tiverton	3306	Republican	430	17%
+Tiverton	3306	Unaffiliated	1,276	52%
+Tiverton	3307	Democrat	578	36%
+Tiverton	3307	Republican	301	19%
+Tiverton	3307	Unaffiliated	706	45%
+Warren	3401	Democrat	889	41%
+Warren	3401	Republican	265	12%
+Warren	3401	Unaffiliated	1,028	47%
+Warren	3402	Democrat	960	36%
+Warren	3402	Republican	376	14%
+Warren	3402	Unaffiliated	1,303	49%
+Warren	3403	Democrat	1,179	40%
+Warren	3403	Republican	361	12%
+Warren	3403	Unaffiliated	1,397	48%
+Warwick	3501	Democrat	1,066	42%
+Warwick	3501	Republican	345	14%
+Warwick	3501	Unaffiliated	1,126	44%
+Warwick	3502	Democrat	991	40%
+Warwick	3502	Republican	346	14%
+Warwick	3502	Unaffiliated	1,145	46%
+Warwick	3503	Democrat	579	39%
+Warwick	3503	Republican	215	15%
+Warwick	3503	Unaffiliated	676	46%
+Warwick	3504	Democrat	941	47%
+Warwick	3504	Republican	227	11%
+Warwick	3504	Unaffiliated	846	42%
+Warwick	3505	Democrat	415	39%
+Warwick	3505	Republican	145	14%
+Warwick	3505	Unaffiliated	511	48%
+Warwick	3506	Democrat	397	37%
+Warwick	3506	Republican	181	17%
+Warwick	3506	Unaffiliated	492	46%
+Warwick	3507	Democrat	229	37%
+Warwick	3507	Republican	88	14%
+Warwick	3507	Unaffiliated	296	48%
+Warwick	3508	Democrat	877	38%
+Warwick	3508	Republican	305	13%
+Warwick	3508	Unaffiliated	1,120	49%
+Warwick	3509	Democrat	199	37%
+Warwick	3509	Republican	72	13%
+Warwick	3509	Unaffiliated	269	50%
+Warwick	3510	Democrat	528	37%
+Warwick	3510	Republican	202	14%
+Warwick	3510	Unaffiliated	684	48%
+Warwick	3511	Democrat	937	38%
+Warwick	3511	Republican	334	14%
+Warwick	3511	Unaffiliated	1,180	48%
+Warwick	3512	Democrat	663	38%
+Warwick	3512	Republican	269	16%
+Warwick	3512	Unaffiliated	795	46%
+Warwick	3513	Democrat	837	36%
+Warwick	3513	Republican	323	14%
+Warwick	3513	Unaffiliated	1,165	50%
+Warwick	3514	Democrat	1,149	38%
+Warwick	3514	Republican	434	14%
+Warwick	3514	Unaffiliated	1,418	47%
+Warwick	3515	Democrat	1,112	38%
+Warwick	3515	Republican	436	15%
+Warwick	3515	Unaffiliated	1,363	47%
+Warwick	3516	Democrat	302	38%
+Warwick	3516	Republican	117	15%
+Warwick	3516	Unaffiliated	367	47%
+Warwick	3517	Democrat	350	37%
+Warwick	3517	Republican	143	15%
+Warwick	3517	Unaffiliated	453	48%
+Warwick	3518	Democrat	1,019	35%
+Warwick	3518	Republican	516	18%
+Warwick	3518	Unaffiliated	1,402	48%
+Warwick	3519	Democrat	1,083	37%
+Warwick	3519	Republican	453	15%
+Warwick	3519	Unaffiliated	1,403	48%
+Warwick	3520	Democrat	871	36%
+Warwick	3520	Republican	379	16%
+Warwick	3520	Unaffiliated	1,167	48%
+Warwick	3521	Democrat	781	36%
+Warwick	3521	Republican	325	15%
+Warwick	3521	Unaffiliated	1,069	49%
+Warwick	3522	Democrat	643	38%
+Warwick	3522	Republican	263	16%
+Warwick	3522	Unaffiliated	780	46%
+Warwick	3523	Democrat	941	38%
+Warwick	3523	Republican	358	14%
+Warwick	3523	Unaffiliated	1,170	47%
+Warwick	3524	Democrat	570	33%
+Warwick	3524	Republican	284	17%
+Warwick	3524	Unaffiliated	859	50%
+Warwick	3525	Democrat	720	35%
+Warwick	3525	Republican	350	17%
+Warwick	3525	Unaffiliated	987	48%
+Warwick	3526	Democrat	265	36%
+Warwick	3526	Republican	123	17%
+Warwick	3526	Unaffiliated	351	47%
+Warwick	3527	Democrat	607	33%
+Warwick	3527	Republican	324	18%
+Warwick	3527	Unaffiliated	885	49%
+Warwick	3528	Democrat	397	37%
+Warwick	3528	Republican	169	16%
+Warwick	3528	Unaffiliated	499	47%
+Warwick	3529	Democrat	687	37%
+Warwick	3529	Republican	310	17%
+Warwick	3529	Unaffiliated	867	47%
+Warwick	3530	Democrat	917	37%
+Warwick	3530	Republican	410	16%
+Warwick	3530	Unaffiliated	1,177	47%
+Warwick	3531	Democrat	957	35%
+Warwick	3531	Republican	511	19%
+Warwick	3531	Unaffiliated	1,278	47%
+Warwick	3532	Democrat	445	37%
+Warwick	3532	Republican	174	14%
+Warwick	3532	Unaffiliated	583	49%
+Warwick	3533	Democrat	381	34%
+Warwick	3533	Republican	175	16%
+Warwick	3533	Unaffiliated	560	50%
+West Greenwich	3701	Democrat	354	23%
+West Greenwich	3701	Republican	408	26%
+West Greenwich	3701	Unaffiliated	797	51%
+West Greenwich	3702	Democrat	360	27%
+West Greenwich	3702	Republican	274	21%
+West Greenwich	3702	Unaffiliated	683	52%
+West Greenwich	3703	Democrat	227	22%
+West Greenwich	3703	Republican	271	26%
+West Greenwich	3703	Unaffiliated	545	52%
+West Greenwich	3704	Democrat	276	25%
+West Greenwich	3704	Republican	267	24%
+West Greenwich	3704	Unaffiliated	581	52%
+West Warwick	3801	Democrat	742	35%
+West Warwick	3801	Republican	338	16%
+West Warwick	3801	Unaffiliated	1,024	49%
+West Warwick	3802	Democrat	505	34%
+West Warwick	3802	Republican	227	15%
+West Warwick	3802	Unaffiliated	765	51%
+West Warwick	3803	Democrat	288	33%
+West Warwick	3803	Republican	136	16%
+West Warwick	3803	Unaffiliated	449	51%
+West Warwick	3804	Democrat	1,206	37%
+West Warwick	3804	Republican	558	17%
+West Warwick	3804	Unaffiliated	1,499	46%
+West Warwick	3805	Democrat	473	34%
+West Warwick	3805	Republican	200	15%
+West Warwick	3805	Unaffiliated	704	51%
+West Warwick	3806	Democrat	432	39%
+West Warwick	3806	Republican	178	16%
+West Warwick	3806	Unaffiliated	491	45%
+West Warwick	3807	Democrat	1,067	36%
+West Warwick	3807	Republican	472	16%
+West Warwick	3807	Unaffiliated	1,433	48%
+West Warwick	3808	Democrat	830	34%
+West Warwick	3808	Republican	463	19%
+West Warwick	3808	Unaffiliated	1,128	47%
+West Warwick	3809	Democrat	704	35%
+West Warwick	3809	Republican	328	16%
+West Warwick	3809	Unaffiliated	957	48%
+West Warwick	3810	Democrat	631	35%
+West Warwick	3810	Republican	285	16%
+West Warwick	3810	Unaffiliated	888	49%
+Westerly	3601	Democrat	351	30%
+Westerly	3601	Republican	246	21%
+Westerly	3601	Unaffiliated	576	49%
+Westerly	3602	Democrat	1,148	37%
+Westerly	3602	Republican	497	16%
+Westerly	3602	Unaffiliated	1,444	47%
+Westerly	3603	Democrat	1,035	37%
+Westerly	3603	Republican	467	16%
+Westerly	3603	Unaffiliated	1,331	47%
+Westerly	3604	Democrat	843	33%
+Westerly	3604	Republican	565	22%
+Westerly	3604	Unaffiliated	1,177	46%
+Westerly	3605	Democrat	882	33%
+Westerly	3605	Republican	574	21%
+Westerly	3605	Unaffiliated	1,241	46%
+Westerly	3606	Democrat	894	33%
+Westerly	3606	Republican	485	18%
+Westerly	3606	Unaffiliated	1,313	49%
+Westerly	3607	Democrat	653	30%
+Westerly	3607	Republican	402	18%
+Westerly	3607	Unaffiliated	1,124	52%
+Woonsocket	3901	Democrat	206	37%
+Woonsocket	3901	Republican	69	12%
+Woonsocket	3901	Unaffiliated	287	51%
+Woonsocket	3902	Democrat	553	43%
+Woonsocket	3902	Republican	149	12%
+Woonsocket	3902	Unaffiliated	587	46%
+Woonsocket	3903	Democrat	432	43%
+Woonsocket	3903	Republican	119	12%
+Woonsocket	3903	Unaffiliated	443	45%
+Woonsocket	3904	Democrat	1,051	45%
+Woonsocket	3904	Republican	251	11%
+Woonsocket	3904	Unaffiliated	1,022	44%
+Woonsocket	3905	Democrat	737	40%
+Woonsocket	3905	Republican	252	14%
+Woonsocket	3905	Unaffiliated	858	46%
+Woonsocket	3906	Democrat	663	37%
+Woonsocket	3906	Republican	252	14%
+Woonsocket	3906	Unaffiliated	896	49%
+Woonsocket	3907	Democrat	821	38%
+Woonsocket	3907	Republican	290	13%
+Woonsocket	3907	Unaffiliated	1,075	49%
+Woonsocket	3908	Democrat	720	36%
+Woonsocket	3908	Republican	361	18%
+Woonsocket	3908	Unaffiliated	906	46%
+Woonsocket	3909	Democrat	1,004	39%
+Woonsocket	3909	Republican	377	15%
+Woonsocket	3909	Unaffiliated	1,191	46%
+Woonsocket	3910	Democrat	991	38%
+Woonsocket	3910	Republican	372	14%
+Woonsocket	3910	Unaffiliated	1,219	47%
+Woonsocket	3911	Democrat	944	40%
+Woonsocket	3911	Republican	301	13%
+Woonsocket	3911	Unaffiliated	1,117	47%
+Woonsocket	3912	Democrat	649	39%
+Woonsocket	3912	Republican	251	15%
+Woonsocket	3912	Unaffiliated	761	46%
