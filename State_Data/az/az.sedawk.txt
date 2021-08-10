@@ -1,0 +1,3 @@
+The Arizona data is gathered from an existing dataset in kaggle from 2014.
+
+cat azvreg_precinct.csv.orig | tr -ds '\r' '' | sed 1d | sed 's/,NA/,""/g' | awk -F, '{ OFS="," }; { print "INSERT INTO precinct (\"STATE\",\"PRECINCT\",\"DISTRICT\",\"PARTY\",\"VOTERS\") VALUES (\"AZ\","$1, $2, $4, $5");" }' > az.insert.sql
