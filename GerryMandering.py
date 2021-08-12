@@ -80,10 +80,10 @@ SuperMatrix.addValue((0,0,0,0), 1)
 def Final_Solution():
     Current_J = 0
     Current_K = 0
-    for j in range(1, Number_of_Precincts):
-        for k in range(1, Number_of_Precincts):
-            for x in range(0, Total_Votes):
-                for y in range(0, Total_Votes):
+    for j in range(1, Number_of_Precincts +1):
+        for k in range(1, Number_of_Precincts+1):
+            for x in range(0, Total_Votes+1):
+                for y in range(0, Total_Votes+1):
                     if Current_J != j:
                         Current_J = j
                         print("J", j)
