@@ -77,7 +77,7 @@ SuperMatrix = NDSparseMatrix()
 SuperMatrix.addValue((0,0,0,0), 1)
 
 
-def Final_Solution():
+def New_Precincts():
     Current_J = 0
     Current_K = 0
     for j in range(1, Number_of_Precincts +1):
@@ -114,7 +114,7 @@ def Final_Solution():
     return False
 
 
-LetsRun = Final_Solution()
+LetsRun = New_Precincts()
 
 if LetsRun:
     print("GerryMandering is possible")
